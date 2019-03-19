@@ -11,10 +11,13 @@ Version: 0.8.0
 
 Documentation
 -------------
-Documentation is available on Read the Docs:
+Full documentation is available on Read the Docs:
 `Stable <https://sample-tester.readthedocs.io/en/stable/>`_,
 `Latest <https://sample-tester.readthedocs.io/en/latest/>`_
 
+Installation
+------------
+.. include:: ./docs/installation.rst
 
 Disclaimer
 ----------
